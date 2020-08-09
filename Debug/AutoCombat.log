@@ -1,0 +1,7 @@
+﻿  AutoCombat.cpp
+C:\Users\Samuel\Source\Repos\AutoCombat\AutoCombat\AutoCombat.cpp(25,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BaseChar.cpp
+  World.cpp
+C:\Users\Samuel\Source\Repos\AutoCombat\AutoCombat\World.cpp(43,25): warning C4302: 'type cast': truncation from 'const char *' to 'char'
+  Generating Code...
+  AutoCombat.vcxproj -> C:\Users\Samuel\Source\Repos\AutoCombat\Debug\AutoCombat.exe
